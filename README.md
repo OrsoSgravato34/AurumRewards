@@ -1,0 +1,2 @@
+# AurumRewards
+Daily rewards plugin
